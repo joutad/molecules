@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+header {
+    margin-top: -8px;
+    margin-inline: -8px;
+    padding: 20px;
+    background-color: black;
+    color: aliceblue;
+}
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a {
+    color: rgb(138, 138, 138);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(78, 78, 78);
+    text-decoration: none;
+}
+nav div {
+    display: inline;
+}
+form {
+    margin: auto;
+}
+table {
+    margin: auto;
+}
+td {
+    padding: 4px;
+}
+.selected {
+    color: rgb(0, 207, 28);
+}
+svg {
+    overflow-x: visible;
+}
